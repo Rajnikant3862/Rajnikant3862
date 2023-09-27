@@ -1,11 +1,9 @@
-[![MasterHead](https://www.google.com/search?sca_esv=568919982&sxsrf=AM9HkKmmPqPZ5hUu8xVlG_Tfdiz2CsGGqQ:1695845429303&q=banner+image+for+coder+on+github&tbm=isch&source=lnms&sa=X&ved=2ahUKEwixgqHDzMuBAxW9klYBHa84BQcQ0pQJegQIDBAB&biw=638&bih=597&dpr=1.5#imgrc=YPUf-A_7XyEu1M&imgdii=3D99WzRnheQR5M)
+
 <h1 align="center">Hi 👋, I'm Rajnikant Totare</h1>
 <h3 align="center">A passionate Data Analysist and Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=animated+coder+gif&tbm=isch&ved=2ahUKEwiGxL_MzcuBAxUWl2MGHWHBCCIQ2-cCegQIABAA&oq=animated+coder+gif&gs_lcp=CgNpbWcQAzIGCAAQCBAeMgYIABAIEB46BAgjECc6BwgjEOoCECc6BwgAEIoFEEM6CAgAEIAEELEDOgUIABCABDoICAAQsQMQgwE6CwgAEIAEELEDEIMBOgYIABAFEB46BAgAEB5QpQhYlzVg8ThoAXAAeACAAY8BiAGqE5IBBDAuMTmYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=VY0UZcbFBpaujuMP4YKjkAI&bih=597&biw=638#imgrc=47chckvIQOvI5M&imgdii=TU6M-pr48V2rEM">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477wivfa6xn79qbde7zmpq4f9xshnzrucjvfwpwbl5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnikant3862&label=Profile%20views&color=0e75b6&style=flat" alt="rajnikant3862" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajnikant3862" alt="rajnikant3862" /></a> </p>
 
 - 🔭 I’m currently working on **Login Face Authentication by using Deep learning**
 
