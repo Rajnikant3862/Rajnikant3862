@@ -1,4 +1,4 @@
-
+[![MasterHead](https://drive.google.com/file/d/1I17hHyCYzCiUM477itdS4SrYG6uoGYG6/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Rajnikant Totare</h1>
 <h3 align="center">A passionate Data Analysist and Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477wivfa6xn79qbde7zmpq4f9xshnzrucjvfwpwbl5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
