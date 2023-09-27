@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1I17hHyCYzCiUM477itdS4SrYG6uoGYG6/view?usp=drive_link)
+[![MasterHead](https://www.google.com/search?sca_esv=568933252&sxsrf=AM9HkKk_t76qonD6-u0R_-c2EFS3lOJi5g:1695846914962&q=banner+image+for+coder+on+github&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiZvNaH0suBAxXFqFYBHeqaA2wQ0pQJegQICxAB&biw=1280&bih=610&dpr=1.5#imgrc=FMAj995LO5bT6M)
 <h1 align="center">Hi 👋, I'm Rajnikant Totare</h1>
 <h3 align="center">A passionate Data Analysist and Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477wivfa6xn79qbde7zmpq4f9xshnzrucjvfwpwbl5&ep=v1_gifs_search&rid=giphy.gif&ct=g">
