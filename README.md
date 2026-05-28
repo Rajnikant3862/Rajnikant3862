@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <a href="https://github.com/Rajnikant3862">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Rajnikant%20Totare&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20GenAI%20Systems&descAlignY=58&descSize=18" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=220&section=header&text=Rajnikant%20Totare&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=AI%20Engineer%20%7C%20LLM%20Architect%20%7C%20Generative%20AI%20Systems&descAlignY=56&descSize=18" alt="header" />
 </a>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+LLM+Architect;Building+production-grade+GenAI+systems;RAG+%7C+Computer+Vision+%7C+Speech+AI;Turning+models+into+real+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=AI+Engineer+%26+LLM+Architect;Building+production-grade+GenAI+systems;RAG+%7C+Computer+Vision+%7C+Speech+AI;Turning+models+into+real%2C+reliable+products)](https://git.io/typing-svg)
 
 <a href="https://rajnikantportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/rajnikant-totare-94492921b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -44,29 +44,35 @@ class AIEngineer:
 
 ---
 
+## ⚡ Highlights
+
+<div align="center">
+
+| 🧩 Focus | 🛰️ Scale | 🎯 Edge |
+|:--------:|:--------:|:-------:|
+| Generative AI · RAG · Multimodal | 60+ APIs · 10M+ records/day | Latency-optimized inference |
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Core**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark" alt="languages" />
 
 **AI / ML & Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="ai-ml" />
 
-**LLM / Generative AI**
+**Generative AI / LLM**
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge&logoColor=white)
 
 **Vector Databases**
 
@@ -77,25 +83,32 @@ class AIEngineer:
 
 **Backend & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs&theme=dark" alt="backend" />
 
 **Cloud & MLOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github,linux&theme=dark" alt="cloud" />
 
-**Data & BI**
+**Databases & BI**
 
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="databases" />
+&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 💼 Experience
+
+- **AI Engineer & LLM Architect** — *Digital AIML* (Sep 2024 – Present)
+  Multimodal AI platform (vision/language/speech/document AI), 60+ APIs, RAG at scale, MLOps across AWS/Azure/GCP.
+- **Data Scientist** — *TOP Analytica* (Jul 2024 – Aug 2025)
+  Campaign analytics across 50+ constituencies; automated Python ETL; Power BI dashboards.
+- **Data Scientist (Virtual)** — *BCG X* (Jan 2024 – Jul 2024)
+  PowerCo churn-prediction model (~85% accuracy).
+- **Data Science Intern** — *iNeuron.ai* (Mar 2023 – Jun 2023)
+  Customer behaviour analysis and ML platform optimization.
 
 ---
 
@@ -126,8 +139,8 @@ class AIEngineer:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajnikant3862&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnikant3862&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajnikant3862&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnikant3862&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top langs" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajnikant3862&theme=tokyonight&hide_border=true" alt="streak" />
 
@@ -137,9 +150,21 @@ class AIEngineer:
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/output/github-snake-dark.svg)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💡 *"Turning intelligent models into real, reliable products."*
+
+⭐️ From [Rajnikant3862](https://github.com/Rajnikant3862)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0e75b6&height=120&section=footer" width="100%" alt="footer"/>
 
