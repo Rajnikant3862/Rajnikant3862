@@ -139,13 +139,13 @@ class AIEngineer:
 
 <div align="center">
 
-<img width="80%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+<img width="80%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
 
-<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
-<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
+<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
 
-<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
-<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
+<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
+<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
 
 <br/><br/>
 
