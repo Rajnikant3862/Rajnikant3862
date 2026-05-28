@@ -139,12 +139,17 @@ class AIEngineer:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajnikant3862&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajnikant3862&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="top langs" />
+<img width="80%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+
+<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time" />
+
+<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
+<img width="49%" src="https://raw.githubusercontent.com/Rajnikant3862/Rajnikant3862/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language" />
+
+<br/><br/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajnikant3862&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=Rajnikant3862&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
 
 </div>
 
